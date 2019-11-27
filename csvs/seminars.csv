@@ -1,0 +1,1099 @@
+seminar_id,title,date,year
+01021,Semantics in Databases,January 7 – 12,2001
+01041,Interoperability of Reengineering Tools,January 21 – 26,2001
+01051,Computer Aided Design and Test - BDDs versus SAT,January 28 – February 2,2001
+01081,Applications of Kleene Algebra,February 18 – 23,2001
+01091,Algorithmic Techniques in Physics,February 25 – March 2,2001
+01101,Deduction,March 4 – 9,2001
+01111,Methodology of Evaluation in Computational Medical Imaging,March 11 – 16,2001
+01121,Computational Geometry,March 18 – 23,2001
+01141,Semantic Foundations of Proof-search,April 1 – 6,2001
+01161,Product Family Development,April 16 – 20,2001
+01191,Computational Cartography and Spatial Modelling,May 6 – 11,2001
+01201,Algorithms and Number Theory,May 13 – 18,2001
+01211,Software Visualization,May 20 – 25,2001
+01221,Can Formal Methods Cope with Software-Intensive Systems?,May 27 – June 1,2001
+01231,Design and Analysis of Randomized and Approximation Algorithms,June 3 – 8,2001
+01241,Management of Metacomputers,June 10 – 15,2001
+01242,Stochastic Methods in Rendering,June 10 – 15,2001
+01251,Graph Decompositions and Algorithmic Applications,June 17 – 22,2001
+01261,Information and Simulation Systems for the Analysis of Gene Regulation and Metabolic Pathways,June 24 – 29,2001
+01271,Link Analysis and Visualization,July 1 – 6,2001
+01301,Inference Principles and Model Selection,July 22 – 27,2001
+01311,Parameterized Complexity,July 29 – August 3,2001
+01341,Dependent Type Theory meets Practical Programming,August 19 – 24,2001
+01361,Foundations of Semistructured Data,September 2 – 7,2001
+01371,Ubiquitous Computing,September 9 – 14,2001
+01381,Algorithmic Aspects of Large and Complex Networks,September 16 – 21,2001
+01391,Specification and Analysis of Secure Cryptographic Protocols,September 23 – 28,2001
+01411,Proof Theory in Computer Science,October 7 – 12,2001
+01421,Integration of Algebra and Geometry Software Systems,October 14 – 19,2001
+01431,Plan-based Control of Robotic Agents,October 21 – 26,2001
+01441,Coordination and Fusion in Multimodal Interaction,October 28 – November 2,2001
+01451,Exploration of Large State Spaces,November 4 – 9,2001
+01461,Computability and Complexity in Analysis,November 11 – 16,2001
+01491,Synchronous Languages,December 2 – 7,2001
+02021,Content-Based Image and Video Retrieval,January 6 – 11,2002
+02031,Theory of Evolutionary Algorithms,January 13 – 18,2002
+02041,The Logic of Rational Agency,January 20 – 25,2002
+02061,Rule Markup Techniques for the Semantic Web,February 3 – 8,2002
+02071,Concepts and Applications of Programmable and Active Networking Technologies,February 13 – 15,2002
+02081,Algorithmic Combinatorial Game Theory,February 17 – 22,2002
+02091,Data Structures,February 24 – March 1,2002
+02101,Theory and Application of Abstract State Machines,March 3 – 8,2002
+02111,Concurrency and Dynamic Behaviour Modelling: Pragmatics & Semantics,March 10 – 15,2002
+02121,Complexity of Boolean Functions,March 17 – 22,2002
+02151,"Theoretical Foundations of Computer Vision -- Geometry, Morphology, and Computational Imaging",April 7 – 12,2002
+02181,Information Integration,April 29 – May 3,2002
+02201,Geometric Modelling,May 12 – 17,2002
+02221,Mathematical Structures for Computable Topology and Geometry,May 26 – 31,2002
+02231,Scheduling in Computer and Manufacturing Systems,June 2 – 7,2002
+02241,Electronic Market Design,June 9 – 14,2002
+02251,Approximation and Randomized Algorithms in Communication Networks,June 16 – 21,2002
+02261,The Travelling Salesman Problem,June 23 – 28,2002
+02271,Online Algorithms,June 30 – July 5,2002
+02291,Aesthetic Computing,July 14 – 19,2002
+02341,Performance Analysis and Distributed Computing,August 18 – 23,2002
+02351,Grand Challenges for Modelling and Simulation,August 25 – 30,2002
+02352,Formal Circuit Equivalence Verification,August 25 – 29,2002
+02361,Supporting Customer-Supplier Relationships: Requirements Engineering and Quality Assurance,September 1 – 6,2002
+02371,Experimental Algorithmics,September 8 – 13,2002
+02381,"Nonmonotonic Reasoning, Answer Set Programming and Constraints",September 15 – 20,2002
+02391,Cryptography,September 22 – 27,2002
+02401,Algorithms and Complexity for Continuous Problems,September 29 – October 4,2002
+02421,Algebraic Methods in Quantum and Classical Models of Computation,October 13 – 18,2002
+02441,Quality of Service in Networks and Distributed Systems,October 27 – 31,2002
+02451,Dependability of Component Based Systems,November 3 – 8,2002
+02471,Computational Biology,November 17 – 22,2002
+02481,Programming Multi Agent Systems based on Logic,November 24 – 29,2002
+03021,Verification and Constructive Algebra,January 5 – 10,2003
+03041,Numerical Software with Result Verification,January 19 – 24,2003
+03051,Information and Process Integration: A Life Science Perspective,January 28 – 31,2003
+03061,Software Architecture: Recovery and Modelling,February 2 – 7,2003
+03071,Emerging Technologies: Can Optimization Technology meet their Demands?,February 9 – 14,2003
+03081,"Objects, Agents and Features",February 16 – 21,2003
+03091,Program Analysis for Object-Oriented Evolution,February 23 – 28,2003
+03101,Reasoning about Shape,March 2 – 7,2003
+03111,Challenges in High Performance Simulations for Science and Engineering,March 9 – 14,2003
+03112,Multimedia Retrieval,March 10 – 13,2003
+03121,Computational Geometry,March 16 – 21,2003
+03131,Domain-Specific Program Generation,March 23 – 28,2003
+03141,The Propositional Satisfiability Problem -- Algorithms and Lower Bounds,March 30 – April 4,2003
+03151,Product Family Development,April 7 – 10,2003
+03171,Deduction and Infinite-state Model Checking,April 21 – 25,2003
+03181,Centennial Seminar on Kolmogorov Complexity and Applications,April 27 – May 2,2003
+03191,Conceptual and Technical Aspects of Electronic Learning,May 4 – 9,2003
+03201,Probabilistic Methods in Verification and Planning,May 11 – 16,2003
+03211,Adaptivity in Parallel Scientific Computing,May 18 – 23,2003
+03231,Scientific Visualization: Extracting Information and Knowledge from Scientific Data Sets,June 1 – 6,2003
+03241,Inconsistency Tolerance,June 9 – 13,2003
+03261,Plan-Based Control of Robotic Agents,June 22 – 27,2003
+03271,Hierarchical Methods in Computer Graphics,June 29 – July 4,2003
+03281,Embodied Artificial Intelligence,July 6 – 11,2003
+03291,Algorithmic Game Theory and the Internet,July 13 – 18,2003
+03301,Dynamically Reconfigurable Architectures,July 20 – 25,2003
+03311,Fixed Parameter Algorithms,July 27 – August 1,2003
+03321,Internet Economics,August 3 – 7,2003
+03351,Software Optimization,August 26 – 29,2003
+03361,Algorithmic Aspects of Large and Complex Networks,August 31 – September 5,2003
+03362,Data Quality on the Web,August 31 – September 5,2003
+03371,"Scenarios: Models, Transformations and Tools",September 7 – 12,2003
+03381,New Optimization Algorithms in Physics,September 14 – 19,2003
+03391,Graph Colorings,September 21 – 26,2003
+03401,Computational Cartography and Spatial Modelling,September 28 – October 3,2003
+03411,Language-Based Security,October 5 – 10,2003
+03421,Theoretical and Computational Aspects of Matrix Algorithms,October 12 – 17,2003
+03431,Hardware and Software Consistency Models: Programmability and Performance,October 19 – 24,2003
+03441,Cognitive Vision Systems,October 26 – 31,2003
+03451,Applied Deductive Verification,November 2 – 7,2003
+03461,Software Intensive Embedded Systems - with Special Emphasis on Automotive,November 9 – 14,2003
+03471,Design of Systems with Predictable Behaviour,November 16 – 19,2003
+03481,"e-Accessibility - new Devices, new Technologies and new Challenges in the Information Society",November 23 – 27,2003
+03491,Understanding Program Dynamics,November 30 – December 5,2003
+03501,Robot Navigation,December 7 – 12,2003
+04021,Content-Based Retrieval,January 4 – 9,2004
+04041,Component-Based Modeling and Simulation,January 18 – 23,2004
+04051,Empirical Theory and the Science of Software Engineering,January 25 – 29,2004
+04061,Real Computation and Complexity,February 1 – 6,2004
+04081,Theory of Evolutionary Algorithms,February 15 – 20,2004
+04091,Data Structures,February 22 – 27,2004
+04101,Language Engineering for Model-Driven Software Development,February 29 – March 5,2004
+04111,Peer-to-Peer-systems and -Applications,March 7 – 10,2004
+04121,Evaluating Embodied Conversational Agents,March 14 – 19,2004
+04122,Wireless Sensor Networks and Applications,March 14 – 19,2004
+04131,Geometric Properties from Incomplete Data,March 21 – 26,2004
+04141,Complexity of Boolean Functions,March 28 – April 2,2004
+04161,Detecting Local Patterns,April 12 – 16,2004
+04171,Logic Based Information Agents,April 18 – 23,2004
+04172,Visualization and Image Processing of Tensor Fields,April 18 – 23,2004
+04181,Atomicity in System Design and Execution,April 25 – 30,2004
+04201,Content Distribution Infrastructures,May 11 – 14,2004
+04202,Perspectives Workshop: Quantum Computing,May 9 – 13,2004
+04211,Algorithms and Number Theory,May 16 – 21,2004
+04221,Robust and Approximative Algorithms on Particular Graph Classes,May 23 – 28,2004
+04231,Scheduling in Computer and Manufacturing Systems,May 31 – June 4,2004
+04241,Graph Transformations and Process Algebras for Modeling Distributed and Mobile Systems,June 6 – 11,2004
+04251,Imaging Beyond the Pin-hole Camera. 12th Seminar on Theoretical Foundations of Computer Vision,June 13 – 18,2004
+04261,Algorithmic Methods for Railway Optimization,June 20 – 25,2004
+04271,"Preferences: Specification, Inference, Applications",June 27 – July 2,2004
+04281,Integrative Bioinformatics - Aspects of the Virtual Cell,July 4 – 9,2004
+04292,Perspectives Workshop: Data Mining: The Next Generation,July 11 – 16,2004
+04301,Cache-Oblivious and Cache-Aware Algorithms,July 18 – 23,2004
+04321,Data Warehousing at the Crossroads,August 1 – 6,2004
+04351,Spatial Representation: Discrete vs. Continuous Computational Models,August 22 – 27,2004
+04371,Perspectives of Model-Based Testing,September 5 – 10,2004
+04381,Dependently Typed Programming,September 12 – 17,2004
+04391,Semantic Interoperability and Integration,September 19 – 24,2004
+04401,Algorithms and Complexity for Continuous Problems,September 26 – October 1,2004
+04411,Service Management and Self-Organization in IP-based Networks,October 3 – 6,2004
+04421,Algebraic Methods in Computational Complexity,October 10 – 15,2004
+04431,Cognitive Networks and Radios,October 17 – 22,2004
+04441,Mobile Information Management,October 24 – 29,2004
+04451,Future Generation Grids - FGG 2004,November 1 – 5,2004
+04461,Practical Approaches to Multi-Objective Optimization,November 7 – 12,2004
+04491,Synchronous Programming - SYNCHRON\'04,November 28 – December 3,2004
+04511,Architecting Systems with Trustworthy Components,December 12 – 17,2004
+05011,Computing and Markets,January 3 – 7,2005
+05021,"Mathematics, Algorithms, Proofs",January 9 – 14,2005
+05031,Algorithms for Optimization with Incomplete Information,January 16 – 21,2005
+05051,"Probabilistic, Logical and Relational Learning - Towards a Synthesis",January 30 – February 4,2005
+05061,Foundations of Semistructured Data,February 6 – 11,2005
+05071,Machine Learning for the Semantic Web,February 13 – 18,2005
+05081,Foundations of Global Computing,February 20 – 25,2005
+05091,Multimedia Research - where do we need to go tomorrow,March 1 – 4,2005
+05101,"Scheduling for Parallel Architectures: Theory, Applications, Challenges",March 6 – 11,2005
+05111,Computational Geometry,March 13 – 18,2005
+05141,Power-aware Computing Systems,April 3 – 8,2005
+05142,Disruption Tolerant Networking,April 3 – 6,2005
+05151,"Annotating, Extracting and Reasoning about Time and Events",April 10 – 15,2005
+05152,Peer-to-Peer Mobile Ad Hoc Networks - New Research Issues,April 9 – 12,2005
+05161,Transformation Techniques in Software Engineering,April 17 – 22,2005
+05171,"Nonmonotonic Reasoning, Answer Set Programming and Constraints",April 24 – 29,2005
+05181,Mobile Computing and Ambient Intelligence: The Challenge of Multimedia,May 1 – 4,2005
+05191,Graph Drawing,May 8 – 13,2005
+05201,Design and Analysis of Randomized and Approximation Algorithms,May 15 – 20,2005
+05221,Geometric Modeling,May 29 – June 3,2005
+05231,Scientific Visualization: Challenges for the Future,June 5 – 10,2005
+05241,Synthesis and Planning,June 12 – 17,2005
+05251,Types for Tools: Applications of Type Theoretic Techniques,June 19 – 24,2005
+05261,Multi-Version Program Analysis,June 26 – July 1,2005
+05271,Semantic Grid: The Convergence of Technologies,July 3 – 8,2005
+05281,Simulation & Scheduling: Companions or Competitors for Improving the Performance of Manufacturing Systems,July 10 – 15,2005
+05291,Sublinear Algorithms,July 17 – 22,2005
+05301,Exact Algorithms and Fixed-Parameter Tractability,July 24 – 29,2005
+05311,Verifying Optimizing Compilers,July 31 – August 5,2005
+05321,"Belief Change in Rational Agents: Perspectives from Artificial Intelligence, Philosophy, and Economics",August 7 – 12,2005
+05361,Algorithmic Aspects of Large and Complex Networks,September 4 – 9,2005
+05371,Principles and Practices of Semantic Web Reasoning,September 11 – 16,2005
+05381,Form and Content in Sensor Networks,September 18 – 23,2005
+05382,Efficient Text Entry,September 21 – 24,2005
+05391,Algebraic and Numerical Algorithms and Computer-assisted Proofs,September 25 – 30,2005
+05402,Challenges for Software Engineering Research,October 5 – 8,2005
+05411,Anonymous Communication and its Applications,October 9 – 14,2005
+05421,"Data Always and Everywhere - Management of Mobile, Ubiquitous, Pervasive, and Sensor Data",October 16 – 21,2005
+05431,Deduction and Applications,October 23 – 28,2005
+05441,Managing and Mining Genome Information: Frontiers in Bioinformatics,October 30 – November 4,2005
+05451,Beyond Program Slicing,November 6 – 11,2005
+05461,Perspektiv-Workshop zur theoretischen Informatik,November 14 – 16,2005
+05462,Service Oriented Computing (SOC),November 15 – 18,2005
+05471,Computational Proteomics,November 20 – 25,2005
+05491,Spatial Cognition: Specialization and Integration,December 4 – 9,2005
+05501,Automatic Performance Analysis,December 12 – 16,2005
+06011,Autonomic Networking,January 3 – 6,2006
+06021,Reliable Implementation of Real Number Algorithms: Theory and Practice,January 8 – 13,2006
+06031,Organic Computing - Controlled Emergence,January 15 – 20,2006
+06051,Kolmogorov Complexity and Applications,January 29 – February 3,2006
+06061,Theory of Evolutionary Algorithms,February 5 – 10,2006
+06071,Architectures and Algorithms for Petascale Computing,February 12 – 17,2006
+06081,Software Verification: Infinite-State Model Checking and Static Program Analysis,February 19 – 24,2006
+06091,Data Structures,February 26 – March 3,2006
+06101,"Spatial Data: Mining, Processing and Communicating",March 5 – 10,2006
+06111,Complexity of Boolean Functions,March 12 – 17,2006
+06121,Atomicity: A Unifying Concept in Computer Science,March 19 – 24,2006
+06131,Peer-to-Peer-Systems and -Applications,March 26 – 29,2006
+06132,Internet Economics,March 28 – 31,2006
+06141,Dynamically Reconfigurable Architectures,April 2 – 7,2006
+06161,Simulation and Verification of Dynamic Systems,April 17 – 22,2006
+06171,Content-Based Retrieval,April 23 – 28,2006
+06172,Directed Model Checking,April 26 – 29,2006
+06181,Latently-Typed Languages,May 1 – 6,2006
+06191,Rigorous Methods for Software Construction and Analysis,May 7 – 12,2006
+06201,Combinatorial and Algorithmic Foundations of Pattern and Association Discovery,May 14 – 19,2006
+06221,"Computational Aesthetics in Graphics, Visualization and Imaging",May 28 – June 2,2006
+06231,Towards Affordance-Based Robot Control,June 5 – 9,2006
+06241,"Human Motion - Understanding, Modeling, Capture and Animation. 13th Workshop on Theoretical Foundations of Computer Vision",June 11 – 16,2006
+06251,"Multi-Robot Systems: Perception, Behaviors, Learning, and Action",June 19 – 23,2006
+06261,Foundations and Practice of Programming Multi-Agent Systems,June 25 – 30,2006
+06262,Empirical Software Engineering,June 26 – 30,2006
+06271,Challenges in Symbolic Computation Software,July 2 – 7,2006
+06281,The Challenge of Software Verification,July 9 – 13,2006
+06291,The Role of Business Processes in Service Oriented Architectures,July 16 – 21,2006
+06301,"Duplication, Redundancy, and Similarity in Software",July 23 – 26,2006
+06302,Aspects For Legacy Applications,July 26 – 29,2006
+06311,Sensor Data and Information Fusion in Computer Vision and Medicine,July 30 – August 4,2006
+06341,"Computational Structures for Modelling Space, Time and Causality",August 20 – 25,2006
+06351,Methods for Modelling Software Systems (MMOSS),August 27 – September 1,2006
+06361,Computing Media and Languages for Space-Oriented Computation,September 3 – 8,2006
+06371,From Security to Dependability,September 10 – 15,2006
+06381,Computer Science in Sport,September 17 – 20,2006
+06391,Algorithms and Complexity for Continuous Problems,September 24 – 29,2006
+06401,Complexity of Constraints,October 1 – 6,2006
+06411,"Specification, Verification and Test of Open Systems",October 8 – 13,2006
+06421,Robot Navigation,October 15 – 20,2006
+06431,Scalable Data Management in Evolving Networks,October 22 – 27,2006
+06441,Naming and Addressing for Next-Generation Internetworks,October 29 – November 1,2006
+06451,"Circuits, Logic, and Games",November 8 – 10,2006
+06461,Negotiation and Market Engineering,November 12 – 17,2006
+06471,Quo vadis Informatik - Innovation dank Informatik,November 19 – 22,2006
+06472,XQuery Implementation Paradigms,November 19 – 22,2006
+06481,Geometric Networks and Metric Space Embeddings,November 26 – December 1,2006
+06491,"Digital Historical Corpora - Architecture, Annotation, and Retrieval",December 3 – 8,2006
+06501,Practical Approaches to Multi-Objective Optimization,December 10 – 15,2006
+07011,Runtime Verification,January 2 – 6,2007
+07021,Symmetric Cryptography,January 7 – 12,2007
+07022,Visualization and Processing of Tensor Fields,January 9 – 13,2007
+07031,Software Dependability Engineering,January 14 – 19,2007
+07041,Power-aware Computing Systems,January 21 – 26,2007
+07051,Programming Paradigms for the Web: Web Programming and Web Services,January 28 – February 2,2007
+07061,Autonomous and Adaptive Web Services,February 4 – 9,2007
+07071,Web Information Retrieval and Linear Algebra Algorithms,February 11 – 16,2007
+07081,End-User Software Engineering,February 18 – 23,2007
+07091,"Mobility, Ubiquity and Security",February 25 – March 2,2007
+07101,Quantitative Aspects of Embedded Systems,March 4 – 9,2007
+07111,Computational Geometry,March 11 – 16,2007
+07112,"Cutting, Packing, Layout and Space Allocation",March 13 – 16,2007
+07121,"Experimental Fluid Mechanics, Computer Vision & Pattern Recognition",March 18 – 23,2007
+07122,Normative Multi-agent Systems,March 18 – 23,2007
+07131,Similarity-based Clustering and its Application to Medicine and Biology,March 25 – 30,2007
+07132,Towards Interoperability of Biomedical Ontologies,March 27 – 30,2007
+07151,Geometry in Sensor Networks,April 9 – 13,2007
+07161,"Probabilistic, Logical and Relational Learning - A Further Synthesis",April 15 – 20,2007
+07171,Visual Computing - Convergence of Computer Graphics and Computer Vision,April 22 – 27,2007
+07181,Parallel Universes and Local Patterns,May 1 – 4,2007
+07191,Event Processing,May 6 – 11,2007
+07211,"Exact, Approximative, Robust and Certifying Algorithms on Particular Graph Classes",May 20 – 25,2007
+07212,"Constraint Databases, Geometric Elimination and Geographic Information Systems",May 20 – 25,2007
+07221,"Information Visualization - Human-Centered Issues in Visual Representation, Interaction, and Evaluation",May 28 – June 1,2007
+07241,"Tools for the Model-based Development of Certifiable, Dependable Systems",June 10 – 15,2007
+07261,Fair Division,June 24 – 29,2007
+07271,Computational Social Systems and the Internet,July 1 – 6,2007
+07281,"Structure Theory and FPT Algorithmics for Graphs, Digraphs and Hypergraphs",July 8 – 13,2007
+07291,Scientific Visualization,July 15 – 20,2007
+07301,"Resilient and Survivable Networks, Infrastructure and Services",July 22 – 25,2007
+07302,Autonomic Management of Networks and Services,July 25 – 28,2007
+07311,Frontiers of Electronic Voting,July 29 – August 3,2007
+07341,Code Instrumentation and Modeling for Parallel Performance Analysis,August 19 – 24,2007
+07351,Formal Models of Belief Change in Rational Agents,August 26 – 30,2007
+07361,Programming Models for Ubiquitous Parallelism,September 2 – 7,2007
+07371,Mobile Interfaces Meet Cognitive Technologies,September 9 – 14,2007
+07381,Cryptography,September 16 – 21,2007
+07391,Probabilistic Methods in the Design and Analysis of Algorithms,September 23 – 28,2007
+07401,Deduction and Decision Procedures,September 30 – October 5,2007
+07411,Algebraic Methods in Computational Complexity,October 7 – 12,2007
+07421,Formal Protocol Verification Applied,October 14 – 19,2007
+07431,Computational Issues in Social Choice,October 21 – 26,2007
+07441,Algorithmic-Logical Theory of Infinite Structures,October 28 – November 2,2007
+07451,Model-Based Engineering of Embedded Real-Time Systems,November 4 – 9,2007
+07461,Numerical Methods for Structured Markov Chains,November 11 – 14,2007
+07462,"Assisted Living Systems \x96 Models, Architectures and Engineering Approaches",November 14 – 17,2007
+07471,Equilibrium Computation,November 18 – 23,2007
+07491,Mining Programs and Processes,December 2 – 7,2007
+08021,Numerical Validation in Current Hardware Architectures,January 6 – 11,2008
+08031,Software Engineering for Self-Adaptive Systems,January 13 – 18,2008
+08041,"Recurrent Neural Networks - Models, Capacities, and Applications",January 20 – 25,2008
+08042,Theory and Practice of Argumentation Systems,January 20 – 23,2008
+08043,Telecommunication Economics,January 23 – 26,2008
+08051,Theory of Evolutionary Algorithms,January 27 – February 1,2008
+08061,"Types, Logics and Semantics for State",February 3 – 8,2008
+08071,Scheduling,February 10 – 15,2008
+08081,Data Structures,February 17 – 22,2008
+08091,Logic and Probability for Scene Interpretation,February 24 – 29,2008
+08101,Computational Proteomics,March 2 – 7,2008
+08102,Network Attack Detection and Defense,March 2 – 6,2008
+08111,Ranked XML Querying,March 9 – 14,2008
+08131,Ontologies and Text Mining for Life Sciences: Current Status and Future Perspectives,March 24 – 28,2008
+08141,Organic Computing - Controlled Self-organization,March 30 – April 4,2008
+08142,Combining the Advantages of Product Lines and Open Source,April 2 – 5,2008
+08161,Scalable Program Analysis,April 13 – 18,2008
+08171,Beyond the Finite: New Challenges in Verification and Semistructured Data,April 20 – 25,2008
+08181,The Evolution of Conceptual Modeling,April 27 – 30,2008
+08191,Graph Drawing with Applications to Bioinformatics and Social Sciences,May 4 – 9,2008
+08201,Design and Analysis of Randomized and Approximation Algorithms,May 11 – 16,2008
+08221,Geometric Modeling,May 25 – 30,2008
+08231,Virtual Realities,June 1 – 6,2008
+08241,Transactional Memory: From Implementation to Application,June 8 – 13,2008
+08242,End-to-End Protocols for the Future Internet,June 8 – 11,2008
+08251,Contextual and Social Media Understanding and Usage,June 15 – 20,2008
+08261,Structure-Based Compression of Complex Massive Data,June 22 – 27,2008
+08271,Topological and Game-Theoretic Aspects of Infinite Computations,June 29 – July 4,2008
+08281,Software Engineering for Tailor-made Data Management,July 6 – 11,2008
+08291,Statistical and Geometrical Approaches to Visual Motion Analysis. 14th Workshop \x93Theoretic Foundations of Computer Vision\x94,July 13 – 18,2008
+08292,The Study of Visual Aesthetics in Human-Computer Interaction,July 13 – 16,2008
+08301,Group Testing in the Life Sciences,July 20 – 25,2008
+08302,Countering Insider Threats,July 20 – 25,2008
+08331,Model Engineering of Complex Systems (MECS),August 10 – 13,2008
+08332,Distributed Verification and Grid Computing,August 10 – 14,2008
+08341,Sublinear Algorithms,August 17 – 22,2008
+08351,Evolutionary Test Generation,August 24 – 29,2008
+08361,Programming Multi-Agent Systems,August 31 – September 5,2008
+08371,Fault-Tolerant Distributed Algorithms on VLSI Chips,September 7 – 10,2008
+08372,Computer Science in Sport - Mission and Methods,September 7 – 10,2008
+08381,Computational Complexity of Discrete Problems,September 14 – 19,2008
+08391,Social Web Communities,September 21 – 26,2008
+08393,"Virtual games, interactive hosted services and user-generated content in Web 2.0",September 24 – 27,2008
+08412,Science of Design: High-Impact Requirements for Software-Intensive Systems,October 8 – 11,2008
+08421,Uncertainty Management in Information Systems,October 12 – 17,2008
+08431,Moderately Exponential Time Algorithms,October 19 – 24,2008
+08441,Emerging Uses and Paradigms for Dynamic Binary Translation,October 26 – 31,2008
+08451,"Representation, Analysis and Visualization of Moving Objects",November 2 – 7,2008
+08461,Planning in Multiagent Systems,November 9 – 14,2008
+08471,Geographic Privacy-Aware Knowledge Discovery and Delivery,November 16 – 21,2008
+08491,Theoretical Foundations of Practical Information Security,November 30 – December 5,2008
+08492,Structured Decompositions and Efficient Algorithms,November 30 – December 5,2008
+09021,Software Service Engineering,January 4 – 7,2009
+09031,Symmetric Cryptography,January 11 – 16,2009
+09041,Hybrid and Robust Approaches to Multiobjective Optimization,January 18 – 23,2009
+09051,Knowledge representation for intelligent music processing,January 25 – 30,2009
+09052,Management of the Future Internet,January 27 – 30,2009
+09061,Combinatorial Scientific Computing,February 1 – 6,2009
+09071,Delay and Disruption-Tolerant Networking (DTN) II,February 8 – 11,2009
+09072,Bandwidth on Demand,February 8 – 11,2009
+09073,Model-Based Design of Trustworthy Health Information Systems,February 11 – 14,2009
+09081,Similarity-based learning on structures,February 15 – 20,2009
+09082,The Future of Grid Computing,February 15 – 20,2009
+09091,Formal Methods in Molecular Biology,February 22 – 27,2009
+09101,Interactive Information Retrieval,March 1 – 6,2009
+09102,Naming and Addressing in a Future Internet,March 1 – 4,2009
+09111,Computational Geometry,March 8 – 13,2009
+09121,Normative Multi-Agent Systems,March 15 – 20,2009
+09131,Service Level Agreements in Grids,March 22 – 27,2009
+09141,Web Application Security,March 29 – April 3,2009
+09142,Preventing the Brainware Crisis,March 31 – April 3,2009
+09161,Generalization of spatial information,April 13 – 17,2009
+09162,Architecture and Design of the Future Internet,April 14 – 17,2009
+09171,"Adaptive, Output Sensitive, Online and Parameterized Algorithms",April 19 – 24,2009
+09181,Sampling-based Optimization in the Presence of Uncertainty,April 26 – 30,2009
+09191,Fault Tolerance in High-Performance Computing and Grids,May 3 – 8,2009
+09192,From Quality of Service to Quality of Experience,May 5 – 8,2009
+09201,Self-Healing and Self-Adaptive Systems,May 10 – 15,2009
+09211,Visualization and Monitoring of Network Traffic,May 17 – 20,2009
+09221,Algorithms and Number Theory,May 24 – 29,2009
+09251,Scientific Visualization,June 14 – 19,2009
+09261,Models and Algorithms for Optimization in Logistics,June 21 – 26,2009
+09271,Semantic Web Reflections and Future Directions,June 28 – July 3,2009
+09281,Search Methodologies,July 5 – 10,2009
+09282,Foundations for Forgery-Resilient Cryptographic Hardware,July 5 – 8,2009
+09291,Computational Creativity: An Interdisciplinary Approach,July 12 – 17,2009
+09292,The Java Modeling Language (JML),July 12 – 17,2009
+09301,"Typing, Analysis and Verification of Heap-Manipulating Programs",July 19 – 24,2009
+09302,New Developments in the Visualization and Processing of Tensor Fields,July 19 – 24,2009
+09311,Classical and Quantum Information Assurance Foundations and Practice,July 26 – 31,2009
+09341,"Cognition, Control and Learning for Robot Manipulation in Human Environments",August 16 – 21,2009
+09351,"Information processing, rational belief change and social interaction",August 23 – 27,2009
+09361,Design and Validation of Concurrent Systems,August 30 – September 4,2009
+09371,Algorithmic Methods for Distributed Cooperative Systems,September 6 – 11,2009
+09381,Refinement Based Methods for the Construction of Dependable Systems,September 13 – 18,2009
+09391,Algorithms and Complexity for Continuous Problems,September 20 – 25,2009
+09401,Machine learning approaches  to statistical dependences and causality,September 27 – October 2,2009
+09402,Democracy in a Network Society,September 27 – October 2,2009
+09411,Interaction versus Automation: The two Faces of Deduction,October 4 – 9,2009
+09421,Algebraic Methods in Computational Complexity,October 11 – 16,2009
+09431,From Form to Function,October 18 – 23,2009
+09432,Quantitative Software Design,October 20 – 23,2009
+09441,The Constraint Satisfaction Problem: Complexity and Approximability,October 25 – 30,2009
+09451,"Geometric Networks, Metric Space Embeddings and Spatial Data Mining",November 1 – 6,2009
+09461,Algorithms and Applications for Next Generation SAT Solvers,November 8 – 13,2009
+09471,"Computer-assisted proofs - tools, methods and applications",November 15 – 20,2009
+09481,SYNCHRON 2009,November 22 – 27,2009
+09491,Graph Search Engineering,November 29 – December 4,2009
+09493,Evolving Critical Systems,December 2 – 4,2009
+09501,Software Synthesis,December 6 – 11,2009
+09502,Coalgebraic Logics,December 6 – 9,2009
+09511,Parameterized complexity and approximation algorithms,December 13 – 17,2009
+10011,Pervasive Public Displays,January 3 – 8,2010
+10021,Service-Oriented Architecture and (Multi-)Agent Systems Technology,January 10 – 15,2010
+10031,Quantitative Models: Expressiveness and Analysis,January 17 – 22,2010
+10041,Digital Social Networks,January 24 – 29,2010
+10042,Semantic Challenges in Sensor Networks,January 24 – 29,2010
+10051,Quantitative and Qualitative Analysis of Network Protocols,January 31 – February 5,2010
+10061,"Circuits, Logic, and Games",February 7 – 12,2010
+10071,Scheduling,February 14 – 19,2010
+10081,Cognitive Robotics,February 21 – 26,2010
+10091,Data Structures,February 28 – March 5,2010
+10101,Computational Foundations of Social Choice,March 7 – 12,2010
+10102,Grand Challenges for Discrete Event Logistics Systems,March 7 – 12,2010
+10111,Practical Software Testing: Tool Automation and Human Factors,March 14 – 19,2010
+10121,Computational Transportation Science,March 21 – 26,2010
+10122,New Frontiers for Empirical Software Engineering,March 21 – 24,2010
+10131,Spatial Representation and Reasoning in Language: Ontologies and Logics of Space,March 28 – April 1,2010
+10141,Distributed Usage Control,April 6 – 9,2010
+10151,Enabling Holistic Approaches to Business Process Lifecycle Management,April 11 – 16,2010
+10152,"Relationships, Objects, Roles, and Queries in Modern Programming Languages",April 11 – 16,2010
+10161,"Decision Procedures in Software, Hardware and Bioware",April 18 – 23,2010
+10171,Equilibrium Computation,April 25 – 30,2010
+10181,Program Development for Extreme-Scale Computing,May 2 – 7,2010
+10191,"Program Composition and Optimization: Autotuning, Scheduling, Metaprogramming and Beyond",May 9 – 12,2010
+10201,Event Processing,May 16 – 21,2010
+10211,Flexible Network Design,May 24 – 28,2010
+10231,"Structure Discovery in Biology: Motifs, Networks & Phylogenies",June 6 – 11,2010
+10232,The Semantics of Information,June 6 – 11,2010
+10241,Information Visualization,June 13 – 18,2010
+10252,Game Semantics and Program Verification,June 20 – 25,2010
+10261,Algorithm Engineering,June 27 – July 2,2010
+10271,Verification over discrete-continuous boundaries,July 4 – 9,2010
+10281,Dynamically Reconfigurable Architectures,July 11 – 16,2010
+10291,Automation in Digital Preservation,July 18 – 23,2010
+10292,Resilience Assessment and Evaluation,July 18 – 23,2010
+10301,Service Value Networks,July 25 – 30,2010
+10302,Learning paradigms in dynamic environments,July 25 – 30,2010
+10341,"Insider Threats: Strategies for Prevention, Mitigation, and Response",August 22 – 26,2010
+10351,"Modelling, Controlling and Reasoning About State",August 29 – September 3,2010
+10361,Theory of Evolutionary Algorithms,September 5 – 10,2010
+10371,Dynamic Maps,September 12 – 17,2010
+10372,User-Centric Networking,September 12 – 15,2010
+10373,Demarcating User eXperience,September 15 – 18,2010
+10381,Robust Query Processing,September 19 – 24,2010
+10401,"Learning, Planning and Sharing Robot Knowledge for Human-Robot Interaction",October 3 – 8,2010
+10402,Inter-Vehicular Communication,October 3 – 6,2010
+10403,"Impact of Human Mobility on Communications: Measurement, Analysis, Modeling, and Simulation",October 6 – 9,2010
+10411,Computational Video,October 10 – 15,2010
+10412,QSTRLib: A Benchmark Problem Repository for Qualitative Spatial and Temporal Reasoning,October 10 – 13,2010
+10421,Model-Based Testing in Practice,October 17 – 22,2010
+10431,Software Engineering for Self-Adaptive Systems,October 24 – 29,2010
+10441,Exact Complexity of NP-hard Problems,October 31 – November 5,2010
+10451,"Runtime Verification, Diagnosis, Planning and Control for Autonomous Systems",November 7 – 12,2010
+10461,"Schematization in Cartography, Visualization, and Computational Geometry",November 14 – 19,2010
+10471,Scalable Visual Analytics,November 21 – 26,2010
+10481,Computational Counting,November 28 – December 3,2010
+10482,Formal Methods - Just a Euro-Science?,November 30 – December 3,2010
+10491,"Representation, Analysis and Visualization of Moving Objects",December 5 – 10,2010
+10492,Information-Centric Networking,December 5 – 8,2010
+10501,Advances and Applications of Automata on Words and Trees,December 12 – 17,2010
+10519,Funktionalit\xe4t von Gastportalen,January 5 – 10,2020
+11011,Multi-Core Memory Models and Concurrency Theory,January 3 – 7,2011
+11021,Feature-Oriented Software Development (FOSD),January 9 – 14,2011
+11031,"Bidirectional Transformations ""bx""",January 16 – 21,2011
+11041,Multimodal Music Processing,January 23 – 28,2011
+11042,Learning from the Past: Implications for the Future Internet and its Management?,January 25 – 28,2011
+11051,Sparse Representations and Efficient Sensing of Data,January 30 – February 4,2011
+11061,Online Privacy: Towards Informational Self-Determination on the Internet,February 6 – 11,2011
+11062,Self-Repairing Programs,February 6 – 11,2011
+11071,Theory and Applications of Graph Searching Problems  (GRASTA 2011),February 13 – 18,2011
+11081,Combinatorial and Algorithmic Aspects of Sequence Processing,February 20 – 25,2011
+11091,Packing and Scheduling Algorithms for Information and Communication Services,February 27 – March 4,2011
+11101,Reasoning about Interaction: From Game Theory to Logic and Back,March 6 – 11,2011
+11111,Computational Geometry,March 13 – 18,2011
+11121,Computational Complexity of Discrete Problems,March 20 – 25,2011
+11131,Exploration and Curiosity in Robot Learning and Inference,March 27 – April 1,2011
+11141,Plan Recognition,April 3 – 8,2011
+11142,Innovations for Shape Analysis: Models and Algorithms,April 3 – 8,2011
+11151,Formal Methods in Molecular Biology,April 10 – 15,2011
+11171,Challenges in Document Mining,April 25 – 29,2011
+11172,Artificial Immune Systems,April 25 – 29,2011
+11181,Organic Computing - Design of Self-Organizing Systems,May 1 – 6,2011
+11182,Exploiting graph structure to cope with hard problems,May 1 – 6,2011
+11191,Graph Drawing with Algorithm Engineering Methods,May 8 – 13,2011
+11201,Constraint Programming meets Machine Learning and Data Mining,May 15 – 20,2011
+11211,Geometric Modeling,May 22 – 27,2011
+11231,Scientific Visualization,June 5 – 10,2011
+11241,Design and Analysis of Randomized and Approximation Algorithms,June 13 – 17,2011
+11261,"Outdoor and Large-Scale Real-World Scene Analysis. 15th Workshop ""Theoretic Foundations of Computer Vision""",June 26 – July 1,2011
+11271,Computer Science in Sport - Special emphasis: Football,July 3 – 6,2011
+11272,"Decision Procedures in Soft, Hard and Bio-ware - Follow Up",July 3 – 6,2011
+11281,Verifiable Elections and the Public,July 10 – 15,2011
+11291,Mathematical and Computational Foundations of Learning Theory,July 17 – 22,2011
+11321,Information Management in the Cloud,August 7 – 12,2011
+11331,The Future of Research Communication,August 15 – 18,2011
+11332,Security and Rewriting,August 15 – 18,2011
+11341,Learning in the context of very high dimensional data,August 21 – 26,2011
+11351,Computer Science and Problem Solving: New Foundations,August 28 – September 2,2011
+11361,Data Warehousing: from Occasional OLAP to Real-time Business Intelligence,September 4 – 9,2011
+11371,"Uncertainty modeling and analysis with intervals: Foundations, tools, applications",September 11 – 16,2011
+11381,Quantum Cryptanalysis,September 18 – 23,2011
+11391,Public-Key Cryptography,September 25 – 30,2011
+11401,Forensic Computing,October 3 – 7,2011
+11411,Computing with Infinite Data: Topological and Logical Foundations,October 9 – 14,2011
+11421,Foundations of distributed data management,October 16 – 21,2011
+11441,Science and Engineering of Cyber-Physical Systems,November 1 – 4,2011
+11451,"Data Mining, Networks and Dynamics",November 6 – 11,2011
+11452,Analysis of Dynamic Social and Technological Networks,November 8 – 11,2011
+11461,Coding Theory,November 13 – 18,2011
+11471,Efficient Algorithms for Global Optimisation Methods in Computer Vision,November 20 – 25,2011
+11481,Models@run.time,November 27 – December 2,2011
+11491,Secure Computing in the Cloud,December 4 – 9,2011
+11492,Secure Architectures in the Cloud,December 4 – 9,2011
+11501,Visualization and Processing of Tensors and Higher Order Descriptors for Multi-Valued Data,December 11 – 16,2011
+11502,Design of Reversible and Quantum Circuits,December 11 – 14,2011
+11511,Privacy and Security in Smart Energy Grids,December 18 – 21,2011
+12011,Foundations for Scripting Languages,January 2 – 6,2012
+12021,"Computability, Complexity and Randomness",January 8 – 13,2012
+12031,Symmetric Cryptography,January 15 – 20,2012
+12041,Learning in Multiobjective Optimization,January 22 – 27,2012
+12051,Analysis of Executables: Benefits and Challenges,January 29 – February 3,2012
+12061,Network Attack Detection and Defense Early Warning Systems - Challenges and Perspectives,February 5 – 10,2012
+12071,Software Clone Management Towards Industrial Application,February 12 – 17,2012
+12081,"Information Visualization, Visual Data Mining and Machine Learning",February 19 – 24,2012
+12091,Principles of Provenance,February 26 – March 2,2012
+12101,Computation and Incentives in Social Choice,March 4 – 9,2012
+12111,Normative Multi-Agent Systems,March 11 – 16,2012
+12121,Applications of Combinatorial Topology to Computer Science,March 18 – 23,2012
+12131,Open Models as a Foundation of Future Enterprise Systems,March 25 – 30,2012
+12151,Touching the 3rd Dimension,April 9 – 12,2012
+12152,Software Synthesis,April 9 – 13,2012
+12161,Abstractions for scalable multi-core computing,April 15 – 20,2012
+12171,Semantic Data Management,April 22 – 27,2012
+12181,Quality of Experience: From User Perception to Instrumental Metrics,May 1 – 4,2012
+12182,"Social, Supply-Chain, Administrative, Business, Commerce, Political networks: a multi-discipline perspective",May 1 – 4,2012
+12191,Artificial and Computational Intelligence in Games,May 6 – 11,2012
+12212,Co-Design of Systems and Applications for Exascale,May 20 – 25,2012
+12221,Cognitive Approaches for the Semantic Web,May 28 – June 1,2012
+12231,Future Internet for eHealth,June 3 – 6,2012
+12241,Data Reduction and Problem Kernels,June 10 – 15,2012
+12261,Putting Data on the Map,June 24 – 29,2012
+12271,AI meets Formal Software Development,July 1 – 6,2012
+12272,Architecture-Driven Semantic Analysis of Embedded Systems,July 1 – 6,2012
+12281,Security and Dependability for Federated Cloud Platforms,July 8 – 13,2012
+12282,Database Workload Management,July 8 – 13,2012
+12291,"Structure Discovery in Biology: Motifs, Networks and Phylogenies",July 15 – 20,2012
+12321,Robust Query Processing,August 5 – 10,2012
+12331,Mobility Data Mining and Privacy,August 12 – 17,2012
+12341,Verifying Reliability,August 19 – 24,2012
+12342,Engineering Multi-Agent Systems,August 19 – 24,2012
+12351,Interaction Beyond the Desktop,August 26 – 31,2012
+12352,Information Flow and Its Applications,August 26 – 31,2012
+12361,Information-centric networking -- Ready for the real world?,September 2 – 5,2012
+12362,The Multilingual Semantic Web,September 2 – 7,2012
+12363,Software Defined Networking,September 5 – 8,2012
+12371,Machine Learning Methods for Computer Security,September 9 – 14,2012
+12372,Biological Data Visualization,September 9 – 14,2012
+12381,Privacy-Oriented Cryptography,September 16 – 21,2012
+12382,Computation and Palaeography: Potentials and Limits,September 18 – 21,2012
+12391,Algorithms and Complexity for Continuous Problems,September 23 – 28,2012
+12401,Web Application Security,September 30 – October 5,2012
+12411,Coalgebraic Logics,October 7 – 12,2012
+12421,Algebraic and Combinatorial Methods in Computational Complexity,October 14 – 19,2012
+12431,"Time-of-Flight Imaging: Algorithms, Sensors and Applications",October 21 – 26,2012
+12441,Foundations and Challenges of Change and Evolution in Ontologies,October 28 – November 2,2012
+12442,Requirements Management \x96 Novel Perspectives and Challenges,October 28 – 31,2012
+12451,The Constraint Satisfaction Problem: Complexity and Approximability,November 4 – 9,2012
+12452,Publication Culture in Computing Research,November 6 – 9,2012
+12461,Games and Decisions for Rigorous Systems Engineering,November 11 – 16,2012
+12462,Symbolic Methods for Chemical Reaction Networks,November 11 – 16,2012
+12471,SAT Interactions,November 18 – 23,2012
+12472,Is the Future of Preservation Cloudy?,November 18 – 21,2012
+12481,Quantitative Security Analysis,November 25 – 30,2012
+12482,Analysis of Security APIs,November 25 – 28,2012
+12491,Interpreting Observed Action,December 2 – 7,2012
+12492,Human Activity Recognition in Smart Environments,December 2 – 7,2012
+12501,Organizational Processes for Supporting Sustainable Security,December 9 – 12,2012
+12502,Securing Critical Infrastructures from Targeted Attacks,December 9 – 12,2012
+12511,Divide and Conquer: the Quest for Compositional Design and Analysis,December 16 – 21,2012
+12512,"Representation, Analysis and Visualization of Moving Objects",December 16 – 21,2012
+13021,Symbolic Methods in Testing,January 6 – 11,2013
+13022,"Engineering Resilient Systems: Models, Methods and Tools",January 6 – 11,2013
+13031,Computational Counting,January 13 – 18,2013
+13041,Civilian Crisis Response Models,January 20 – 25,2013
+13042,Epidemic Algorithms and Processes: From Theory to Applications,January 20 – 25,2013
+13051,Software Certification: Methods and Tools,January 27 – February 1,2013
+13052,Multicore Enablement for Embedded and Cyber Physical Systems,January 27 – February 1,2013
+13061,"Fault Prediction, Localization, and Repair",February 3 – 8,2013
+13062,Decentralized Systems for Privacy Preservation,February 3 – 8,2013
+13071,Dependence Logic: Theory and Applications,February 10 – 15,2013
+13072,Mechanisms of Ongoing Development in Cognitive Robotics,February 10 – 15,2013
+13081,Consistency In Distributed Systems,February 17 – 22,2013
+13082,"Communication Complexity, Linear Optimization, and lower bounds for the nonnegative rank of matrices",February 17 – 22,2013
+13091,"Analysis, Test and Verification in The Presence of Variability",February 24 – March 1,2013
+13101,Computational Geometry,March 3 – 8,2013
+13111,Scheduling,March 10 – 15,2013
+13121,"Bidimensional Structures: Algorithms, Combinatorics and Logic",March 17 – 22,2013
+13131,Future Internet,March 24 – 27,2013
+13141,Formal Verification of Distributed Algorithms,April 1 – 5,2013
+13142,Correct and Efficient Accelerator Programming,April 1 – 4,2013
+13151,Drawing Graphs and Maps with Curves,April 7 – 12,2013
+13161,"Interface of Computation, Game Theory, and Economics",April 14 – 19,2013
+13162,Pointer Analysis,April 14 – 19,2013
+13171,Customizing Service Platforms,April 21 – 26,2013
+13181,VaToMAS - Verification and Testing of Multi-Agent Systems,April 28 – May 3,2013
+13182,Meta-Modeling Model-Based Engineering Tools,April 28 – May 3,2013
+13192,Tree Transducers and Formal Methods,May 5 – 8,2013
+13201,Information Visualization - Towards Multivariate Network Visualization,May 12 – 17,2013
+13211,Automated Reasoning on Conceptual Schemas,May 19 – 24,2013
+13212,Computational Methods Aiding Early-Stage Drug Design,May 19 – 24,2013
+13231,Belief Change and Argumentation in Multi-Agent Scenarios,June 2 – 7,2013
+13232,Indexes and Computation over Compressed Structured Data,June 2 – 7,2013
+13241,Virtual Realities,June 9 – 14,2013
+13251,Parallel Data Analysis,June 16 – 21,2013
+13252,Interoperation in Complex Information Ecosystems,June 16 – 19,2013
+13271,Theory of Evolutionary Algorithms,June 30 – July 5,2013
+13272,Computer Science in High Performance Sport - Applications and Implications for Professional Coaching,June 30 – July 3,2013
+13311,Duality in Computer Science,July 28 – August 2,2013
+13312,"""My Life, Shared"" - Trust and Privacy in the Age of Ubiquitous Experience Sharing",July 28 – August 2,2013
+13321,Reinforcement Learning,August 4 – 9,2013
+13322,The Critical Internet Infrastructure,August 4 – 9,2013
+13331,Exponential Algorithms: Algorithms and Complexity Beyond Polynomial Time,August 11 – 16,2013
+13341,Verifiably Secure Process-Aware Information Systems,August 18 – 23,2013
+13342,ICT Strategies for Bridging Biology and Precision Medicine,August 18 – 23,2013
+13351,Coding Theory,August 25 – 30,2013
+13352,Interaction with Information for Visual Reasoning,August 25 – 30,2013
+13361,Crowdsourcing: From Theory to Practice and Long-Term Perspectives,September 1 – 4,2013
+13362,Cloud-based Software Crowdsourcing,September 1 – 4,2013
+13371,Quantum Cryptanalysis,September 8 – 13,2013
+13372,Integration of Tools for Rigorous Software Construction and Analysis,September 8 – 13,2013
+13381,Algorithms and Scheduling Techniques for Exascale Systems,September 15 – 20,2013
+13382,Collaboration and learning through live coding,September 15 – 20,2013
+13391,Algorithm Engineering,September 22 – 27,2013
+13392,Inter-Vehicular Communication - Quo Vadis,September 22 – 25,2013
+13401,Automatic Application Tuning for HPC Architectures,September 29 – October 4,2013
+13402,Physical-Cyber-Social Computing,September 29 – October 4,2013
+13411,Deduction and Arithmetic,October 6 – 11,2013
+13412,Genomic Privacy,October 6 – 9,2013
+13421,Algorithms for Optimization Problems in Planar Graphs,October 13 – 18,2013
+13422,Nominal Computation Theory,October 13 – 16,2013
+13431,Real-World Visual Computing,October 20 – 25,2013
+13441,Evaluation Methodologies in Information Retrieval,October 27 – November 1,2013
+13451,Computational Audio Analysis,November 3 – 8,2013
+13452,Proxemics in Human-Computer Interaction,November 3 – 8,2013
+13461,Electronic Markets and Auctions,November 10 – 15,2013
+13462,Computational Models of Language Meaning in Context,November 10 – 15,2013
+13471,Synchronous Programming,November 17 – 22,2013
+13472,Global Measurement Framework,November 17 – 20,2013
+13481,Unleashing Operational Process Mining,November 24 – 29,2013
+13482,Forensic Computing,November 24 – 29,2013
+13491,Computational Mass Spectrometry,December 1 – 6,2013
+13492,Geosensor Networks: Bridging Algorithms and Applications,December 1 – 6,2013
+13502,Approaches and Applications of Inductive Programming,December 8 – 11,2013
+13511,Software Engineering for Self-Adaptive Systems: Assurances,December 15 – 19,2013
+13512,Social Issues in Computational Transportation Science,December 15 – 19,2013
+14021,Symmetric Cryptography,January 5 – 10,2014
+14022,Connecting Performance Analysis and Visualization to Advance Extreme Scale Computing,January 5 – 10,2014
+14031,Randomized Timed and Hybrid Models for Critical Infrastructures,January 12 – 17,2014
+14032,Planning with epistemic goals,January 12 – 15,2014
+14041,"Quantitative Models: Expressiveness, Analysis, and New Applications",January 19 – 24,2014
+14042,Do-it-yourself Networking: an Interdisciplinary Approach,January 19 – 22,2014
+14051,Algorithms for Wireless Communication,January 26 – 31,2014
+14052,Ethics in Data Sharing,January 26 – 31,2014
+14061,Statistical Techniques for Translating to Morphologically Rich Languages,February 2 – 7,2014
+14062,The Pacemaker Challenge: Developing Certifiable Medical Devices,February 2 – 7,2014
+14071,Graph Modification Problems,February 9 – 14,2014
+14072,New Perspectives in Shape Analysis,February 9 – 14,2014
+14081,Robots Learning from Experiences,February 16 – 21,2014
+14082,Visualization and Processing of Higher Order Descriptors for Multi-Valued Data,February 16 – 21,2014
+14091,Data Structures and Advanced Models of Computation on Big Data,February 23 – 28,2014
+14092,Digital Evidence and Forensic Readiness,February 23 – 28,2014
+14101,Preference Learning,March 2 – 7,2014
+14111,Combinatorics and Algorithmics of Strings,March 9 – 14,2014
+14112,Massive Open Online Courses: Current State and Perspectives,March 10 – 13,2014
+14121,Computational Complexity of Discrete Problems,March 16 – 21,2014
+14122,Verification of Cyber-Physical Systems,March 16 – 21,2014
+14131,Computational Models of Cultural Behavior for Human-Agent Interaction,March 23 – 28,2014
+14132,Interaction and Collective Movement Processing,March 23 – 28,2014
+14141,Reachability Problems for Infinite-State Systems,March 30 – April 4,2014
+14142,Spatial reference in the Semantic Web and in Robotics,March 30 – April 4,2014
+14171,Evaluating Software Verification Systems: Benchmarks and Competitions,April 21 – 25,2014
+14172,Unifying Product and Software Configuration,April 21 – 24,2014
+14181,Multi-agent systems and their role in future energy grids,April 27 – May 2,2014
+14182,Categorical Methods at the Crossroads,April 27 – May 2,2014
+14201,"Horn formulas, directed hypergraphs, lattices and closure systems: related formalisms and applications",May 11 – 16,2014
+14202,JA4AI \x96 Judgment Aggregation for Artificial Intelligence,May 12 – 15,2014
+14211,The Future of Refactoring,May 18 – 23,2014
+14221,Geometric Modeling,May 25 – 30,2014
+14231,Scientific Visualization,June 1 – 6,2014
+14232,Design and Synthesis from Components,June 1 – 6,2014
+14241,"Challenges in Analysing Executables: Scalability, Self-Modifying Code and Synergy",June 9 – 13,2014
+14261,Software Development Analytics,June 22 – 27,2014
+14271,Scripting Languages and Frameworks: Analysis and Verification,June 29 – July 4,2014
+14272,Exploring Interdisciplinary Grand Challenges in ICT Design to Support Proactive Health and Wellbeing,June 29 – July 2,2014
+14281,Feature Interactions: The Next Generation,July 6 – 11,2014
+14282,Crowdsourcing and the Semantic Web,July 6 – 9,2014
+14291,Information-Centric Networking 3,July 13 – 16,2014
+14292,Network Attack Detection and Defense: Securing Industrial Control Systems for Critical Infrastructures,July 13 – 16,2014
+14301,Computational Humanities - bridging the gap between Computer Science and Digital Humanities,July 20 – 25,2014
+14302,Digital Palaeography: New Machines and Old Texts,July 20 – 24,2014
+14331,Querying and Reasoning Under Expressive Constraints,August 10 – 14,2014
+14332,Formal Methods for Coordinating Multi-Agent Systems,August 10 – 14,2014
+14341,Resource-bounded Problem Solving,August 17 – 22,2014
+14342,Equilibrium Computation,August 17 – 22,2014
+14351,Decision Procedures and Abstract Interpretation,August 24 – 29,2014
+14352,Next Generation Static Software Analysis Tools,August 24 – 29,2014
+14361,Computational Aspects of Fabrication,August 31 – September 5,2014
+14362,Augmenting Human Memory - Capture and Recall in the Era of Lifelogging,August 31 – September 5,2014
+14371,"Adjoint Methods in Computational Science, Engineering, and Finance",September 7 – 12,2014
+14372,Analysis of Algorithms Beyond the Worst Case,September 7 – 12,2014
+14381,Neural-Symbolic Learning and Reasoning,September 14 – 19,2014
+14391,Algebra in Computational Complexity,September 21 – 26,2014
+14401,Privacy and Security in an Age of Surveillance,September 28 – October 2,2014
+14402,Resilience in Exascale Computing,September 28 – October 1,2014
+14411,"Constraints, Optimization and Data",October 5 – 10,2014
+14412,Globalizing Domain-Specific Languages,October 5 – 10,2014
+14421,Optimal algorithms and proofs,October 12 – 17,2014
+14441,"Modeling, Verification, and Control of Complex Systems for Energy Networks",October 26 – 31,2014
+14442,Symbolic Execution and Constraint Solving,October 27 – 30,2014
+14451,Optimality and tight results in parameterized complexity,November 2 – 7,2014
+14452,Algorithmic Cheminformatics,November 2 – 7,2014
+14461,High-performance Graph Algorithms and Applications in Computational Science,November 9 – 14,2014
+14462,Systems and Algorithms for Large-scale Graph Analytics,November 9 – 12,2014
+14471,Towards an Affordable Internet Access for Everyone: The Quest for Enabling Universal Service Commitment,November 16 – 21,2014
+14481,Multiscale Spatial Computational Systems Biology,November 23 – 28,2014
+14482,Automated Planning and Model Checking,November 23 – 28,2014
+14491,Socio-Technical Security Metrics,November 30 – December 5,2014
+14492,The synergy between programming languages and cryptography,November 30 – December 5,2014
+14511,Programming Languages for Big Data (PlanBig),December 14 – 19,2014
+14512,Collective Adaptive Systems: Qualitative and Quantitative Modelling and Analysis,December 14 – 19,2014
+15021,Concurrent Computing in the Many-core Era,January 4 – 9,2015
+15022,Quality of Experience: From Assessment to Application,January 4 – 7,2015
+15031,Understanding Complexity in Multiobjective Optimization,January 11 – 16,2015
+15041,Model-driven Algorithms and Architectures for Self-Aware Computing Systems,January 18 – 23,2015
+15042,Coalgebraic Semantics of Reflexive Economics,January 18 – 21,2015
+15051,Artificial and Computational Intelligence in Games: Integration,January 25 – 30,2015
+15052,Empirical Evaluation for Graph Drawing,January 25 – 30,2015
+15061,Non-Zero-Sum-Games and Control,February 1 – 6,2015
+15062,Domain-Specific Languages,February 1 – 6,2015
+15071,Formal Foundations for Networking,February 8 – 13,2015
+15072,Distributed Cloud Computing,February 8 – 11,2015
+15081,Holistic Scene Understanding,February 15 – 20,2015
+15082,Limitations of Convex Programming: Lower Bounds on Extended Formulations and Factorization Ranks,February 15 – 20,2015
+15091,Smart Buildings and Smart Grids,February 22 – 27,2015
+15101,Bridging Information Visualization with Machine Learning,March 1 – 6,2015
+15102,Secure Routing for Future Communication Networks,March 1 – 4,2015
+15111,Computational Geometry,March 8 – 13,2015
+15112,Network Calculus,March 8 – 11,2015
+15121,Mixed Criticality on Multicore/Manycore Platforms,March 15 – 20,2015
+15122,Formal Models of Graph Transformation in Natural Language Processing,March 15 – 20,2015
+15131,Normative Multi-Agent Systems,March 22 – 27,2015
+15151,"Assuring Resilience, Security and Privacy for Flexible Networked Systems and Organisations",April 7 – 10,2015
+15152,Machine Learning with Interdependent and Non-identically Distributed Data,April 7 – 10,2015
+15161,Advanced Stencil-Code Engineering,April 12 – 17,2015
+15162,Software and Systems Traceability for Safety-Critical Projects,April 12 – 17,2015
+15171,Theory and Practice of SAT Solving,April 19 – 24,2015
+15181,Challenges and Trends in Probabilistic Programming,April 26 – 30,2015
+15182,Qualification of Formal Methods Tools,April 26 – 29,2015
+15191,Compositional Verification Methods for Next-Generation Concurrency,May 3 – 8,2015
+15192,The Message in the Shadow: Noise or Knowledge?,May 3 – 8,2015
+15201,Cross-Lingual Cross-Media Content Linking: Annotations and Joint Representations,May 10 – 13,2015
+15211,Theory of Evolutionary Algorithms,May 17 – 22,2015
+15221,Multi-disciplinary Approaches to Reasoning with Imperfect Information and Knowledge - a Synthesis and a Roadmap of Challenges,May 25 – 29,2015
+15222,Human-Centric Development of Software Tools,May 25 – 28,2015
+15241,Computational Social Choice: Theory and Applications,June 7 – 12,2015
+15242,Complexity of Symbolic and Numerical Problems,June 7 – 12,2015
+15251,Sparse Modelling and Multi-exponential Analysis,June 14 – 19,2015
+15261,Logics for Dependence and Independence,June 21 – 26,2015
+15262,Life-long Health Behavior-change Technologies,June 21 – 26,2015
+15281,Algorithms and Scheduling Techniques to Manage Resilience and Power Consumption in Distributed Systems,July 5 – 10,2015
+15301,The Constraint Satisfaction Problem: Complexity and Approximability,July 19 – 24,2015
+15302,Digital Scholarship and Open Science in Psychology and the Behavioral Sciences,July 19 – 24,2015
+15342,Power-Bounded HPC Performance Optimization,August 16 – 21,2015
+15351,Computational Mass Spectrometry,August 23 – 28,2015
+15352,Design of Microfluidic Biochips: Connecting Algorithms and Foundations of Chip Design to Biochemistry and the Life Sciences,August 23 – 26,2015
+15361,Mathematical and Computational Foundations of Learning Theory,August 30 – September 4,2015
+15362,Present and Future of Formal Argumentation,August 30 – September 4,2015
+15371,Quantum Cryptanalysis,September 6 – 11,2015
+15381,Information from Deduction: Models and Proofs,September 13 – 18,2015
+15382,"Modeling and Simulation of Sport Games, Sport Movements, and Adaptations to Training",September 13 – 16,2015
+15391,Algorithms and Complexity for Continuous Problems,September 20 – 25,2015
+15392,Measuring the Complexity of Computational Content: Weihrauch Reducibility and Reverse Analysis,September 20 – 25,2015
+15401,"Circuits, Logic and Games",September 27 – October 2,2015
+15402,Self-assembly and Self-organization in Computer Science and Biology,September 27 – October 2,2015
+15411,Multimodal Manipulation Under Uncertainty,October 4 – 9,2015
+15412,Dynamic Traffic Models in Transportation Science,October 4 – 9,2015
+15421,Rack-scale Computing,October 11 – 16,2015
+15431,Genomic Privacy,October 18 – 23,2015
+15441,Duality in Computer Science,October 25 – 30,2015
+15442,Approaches and Applications of Inductive Programming,October 25 – 30,2015
+15451,Verification of Evolving Graph Structures,November 1 – 6,2015
+15452,Artifact Evaluation for Publications,November 1 – 4,2015
+15461,Vision for Autonomous Vehicles and Probes,November 8 – 13,2015
+15462,The Mobile Revolution \x96 Machine Intelligence for Autonomous Vehicles,November 10 – 13,2015
+15471,Symbolic Computation and Satisfiability Checking,November 15 – 20,2015
+15472,"Programming with ""Big Code""",November 15 – 18,2015
+15481,Evaluation in the Crowd: Crowdsourcing and Human-Centred Experiments,November 22 – 27,2015
+15482,Social Concepts in Self-organising Systems,November 22 – 27,2015
+15491,"Approximate and Probabilistic Computing: Design, Coding, Verification",November 29 – December 4,2015
+15492,Computational Metabolomics,November 29 – December 4,2015
+15511,The Graph Isomorphism Problem,December 13 – 18,2015
+15512,Debating Technologies,December 13 – 18,2015
+16011,Evolution and Computing,January 4 – 8,2016
+16012,Global Measurements: Practice and Experience,January 4 – 7,2016
+16021,Symmetric Cryptography,January 10 – 15,2016
+16022,Geometric and Graph-based Approaches to Collective Motion,January 10 – 15,2016
+16031,Well Quasi-Orders in Computer Science,January 17 – 22,2016
+16032,Privacy and Security in Smart Energy Grids,January 17 – 20,2016
+16041,Reproducibility of Data-Oriented Experiments in e-Science,January 24 – 29,2016
+16042,Eyewear Computing \x96 Augmenting the Human with Head-mounted Wearable Assistants,January 24 – 29,2016
+16051,Modern Cryptography and Security: An Inter-Community Dialogue,January 31 – February 5,2016
+16052,Dark Silicon: From Embedded to HPC Systems,January 31 – February 3,2016
+16061,Data-Driven Storytelling,February 7 – 12,2016
+16062,Modeling and Analysis of Semiconductor Supply Chains,February 7 – 12,2016
+16071,Pattern Avoidance and Genome Sorting,February 14 – 19,2016
+16072,Assessing Learning In Introductory Computer Science,February 14 – 19,2016
+16081,Scheduling,February 21 – 26,2016
+16091,Computational Challenges in Cooperative Intelligent Urban Transport,February 28 – March 4,2016
+16092,Computational Music Structure Analysis,February 28 – March 4,2016
+16101,Data Structures and Advanced Models of Computation on Big Data,March 6 – 11,2016
+16111,Rethinking Experimental Methods in Computing,March 13 – 18,2016
+16112,From Theory to Practice of Algebraic Effects and Handlers,March 13 – 18,2016
+16131,Language Based Verification Tools for Functional Programs,March 28 – April 1,2016
+16141,"Analysis, Interpretation and Benefit of User-Generated Data: Computer Science Meets Communication Studies",April 3 – 8,2016
+16142,"Multidisciplinary Approaches to Multivalued Data: Modeling, Visualization, Analysis",April 3 – 8,2016
+16151,Foundations of Data Management,April 10 – 15,2016
+16152,Tensor Computing for Internet of Things,April 10 – 13,2016
+16161,"Natural Language Argumentation: Mining, Processing, and Reasoning over Textual Arguments",April 17 – 22,2016
+16162,Managing Technical Debt in Software Engineering,April 17 – 22,2016
+16171,Algorithmic Methods for Optimization in Public Transport,April 24 – 29,2016
+16172,Machine Learning for Dynamic Software Analysis: Potentials and Limits,April 24 – 27,2016
+16191,Fresh Approaches to Business Process Modeling,May 8 – 13,2016
+16192,"Supporting Organizational Efficiency and Agility: Models, Languages and Software Systems",May 8 – 13,2016
+16201,"Synergies among Testing, Verification, and Repair for Concurrent Programs",May 16 – 20,2016
+16202,Hardware Security,May 16 – 20,2016
+16221,Algorithms for Optimization Problems in Planar Graphs,May 29 – June 3,2016
+16222,Engineering Moral Agents - from Human Morality to Artificial Morality,May 29 – June 3,2016
+16231,Immersive Analytics,June 5 – 10,2016
+16232,Fair Division,June 5 – 10,2016
+16241,Graph Polynomials: Towards a Comparative Theory,June 12 – 17,2016
+16251,Information-centric Networking and Security,June 19 – 22,2016
+16252,Engineering Academic Software,June 19 – 24,2016
+16261,Integration of Expert Knowledge for Interpretable Models in Biomedical Data Analysis,June 26 – July 1,2016
+16262,Automotive User Interfaces in the Age of Automation,June 26 – July 1,2016
+16271,Algorithmic Foundations of Programmable Matter,July 3 – 8,2016
+16281,Network Latency Control in Data Centres,July 10 – 13,2016
+16282,Topological Methods in Distributed Computing,July 10 – 15,2016
+16291,"Data, Responsibly",July 17 – 22,2016
+16321,Coding Theory in the Time of Big Data,August 7 – 12,2016
+16341,Integrating Process-Oriented and Event-Based Systems,August 21 – 26,2016
+16342,Foundations of Secure Scaling,August 21 – 26,2016
+16351,"Next Generation Sequencing - Algorithms, and Software For Biomedical Applications",August 28 – September 2,2016
+16361,Network Attack Detection and Defense - Security Challenges and Opportunities of Software-Defined Networking,September 4 – 9,2016
+16362,Robustness in Cyber-Physical Systems,September 4 – 9,2016
+16371,Public-Key Cryptography,September 11 – 16,2016
+16372,Uncertainty Quantification and High Performance Computing,September 11 – 16,2016
+16381,SAT and Interactions,September 18 – 23,2016
+16382,Foundations of Unsupervised Learning,September 18 – 23,2016
+16402,Programming Language Techniques for Incremental and Reactive Computing,October 3 – 7,2016
+16411,Algebraic Methods in Computational Complexity,October 9 – 14,2016
+16412,Automated Algorithm Selection and Configuration,October 9 – 14,2016
+16421,Universality of Proofs,October 16 – 21,2016
+16431,Computation over Compressed Structured Data,October 23 – 28,2016
+16441,Adaptive Isolation for Predictability and Security,October 30 – November 4,2016
+16442,"Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR)",October 30 – November 4,2016
+16451,Structure and Hardness in P,November 6 – 11,2016
+16452,Beyond-Planar Graphs: Algorithmics and Combinatorics,November 6 – 11,2016
+16461,Assessing ICT Security Risks in Socio-Technical Systems,November 13 – 18,2016
+16462,Inpainting-Based Image Compression,November 13 – 18,2016
+16471,"Concurrency with Weak Memory Models: Semantics, Languages, Compilation, Verification, Static Analysis, and Synthesis",November 20 – 25,2016
+16472,QoE Vadis?,November 20 – 25,2016
+16481,New Directions for Learning with Kernels and Gaussian Processes,November 27 – December 2,2016
+16482,Algorithms and Effectivity in Tropical Mathematics and Beyond,November 27 – December 2,2016
+16491,Symbolic-Numeric Methods for Reliable and Trustworthy Problem Solving in Cyber-Physical Domains,December 4 – 9,2016
+17021,Functoriality in Geometric Data,January 8 – 13,2017
+17022,Automated Program Repair,January 8 – 13,2017
+17031,Planning and Robotics,January 15 – 20,2017
+17032,Network Function Virtualization in Software Defined Infrastructures,January 15 – 18,2017
+17041,Randomization in Parameterized Complexity,January 22 – 27,2017
+17042,From Characters to Understanding Natural Language (C2NLU): Robust End-to-End Deep Learning for NLP,January 22 – 27,2017
+17051,Theory and Applications of Behavioural Types,January 29 – February 3,2017
+17061,Wildly Heterogeneous Post-CMOS Technologies Meet Software,February 5 – 10,2017
+17062,Beyond VR and AR: Reimagining Experience Sharing and Skill Transfer Towards an Internet of Abilities,February 5 – 10,2017
+17071,Computer-Assisted Engineering for Robotics and Autonomous Systems,February 12 – 17,2017
+17072,Applications of Topology to the Analysis of 1-Dimensional Objects,February 12 – 17,2017
+17081,Computability Theory,February 19 – 24,2017
+17082,Shape-Changing Interfaces,February 19 – 22,2017
+17091,Computer Science Meets Ecology,February 26 – March 3,2017
+17092,Search as Learning,February 26 – March 1,2017
+17101,Databases on Future Hardware,March 5 – 10,2017
+17102,Rethinking Productivity in Software Engineering,March 5 – 8,2017
+17111,"Game Theory in AI, Logic, and Algorithms",March 12 – 17,2017
+17112,Using Networks to Teach About Networks,March 12 – 15,2017
+17121,Computational Complexity of Discrete Problems,March 19 – 24,2017
+17131,Mixed Criticality on Multicore / Manycore Platforms,March 26 – 31,2017
+17132,Opportunities and Risks of Blockchain Technologies,March 26 – 29,2017
+17141,Probabilistic Methods in the Design and Analysis of Algorithms,April 2 – 7,2017
+17142,Formal Methods of Transformations,April 2 – 5,2017
+17161,Ambient Notification Environments,April 17 – 20,2017
+17162,Online Privacy and Web Transparency,April 17 – 20,2017
+17171,Computational Geometry,April 23 – 28,2017
+17181,Theory and Applications of Hashing,May 1 – 5,2017
+17191,Theory of Randomized Optimization Heuristics,May 7 – 12,2017
+17192,Human-Like Neural-Symbolic Computing,May 7 – 12,2017
+17201,Formal Synthesis of Cyber-Physical Systems,May 14 – 19,2017
+17202,Challenges and Opportunities of User-Level File Systems for HPC,May 14 – 19,2017
+17221,"Geometric Modelling, Interoperability and New Challenges",May 28 – June 2,2017
+17222,Robust Performance in Database Query Processing,May 28 – June 2,2017
+17231,Epistemic Planning,June 5 – 9,2017
+17232,Computational Interactivity,June 5 – 8,2017
+17251,Game Theory Meets Computational Learning Theory,June 18 – 23,2017
+17252,"Computational Challenges in RNA-Based Gene Regulation: Protein-RNA Recognition, Regulation and Prediction",June 18 – 21,2017
+17261,Voting: Beyond Simple Majorities and Single-Winner Elections,June 25 – 30,2017
+17262,Federated Semantic Data Management,June 25 – 30,2017
+17271,Foundations of Wireless Networking,July 2 – 7,2017
+17272,Citizen Science: Design and Engagement,July 2 – 5,2017
+17281,Malware Analysis: From Large-Scale Data Triage to Targeted Attack Recognition,July 9 – 14,2017
+17282,From Observations to Prediction of Movement,July 9 – 14,2017
+17291,Resource Bound Analysis,July 16 – 21,2017
+17292,"Topology, Computation and Data Analysis",July 16 – 21,2017
+17301,User-Generated Content in Social Media,July 23 – 28,2017
+17332,Scalable Set Visualizations,August 13 – 18,2017
+17341,Computational Counting,August 20 – 25,2017
+17342,SLEBOK: The Software Language Engineering Body of Knowledge,August 20 – 25,2017
+17351,Machine Learning and Formal Methods,August 27 – September 1,2017
+17352,Analysis and Synthesis of Floating-point Programs,August 27 – 30,2017
+17361,Finite and Algorithmic Model Theory,September 3 – 8,2017
+17371,Deduction Beyond First-Order Logic,September 10 – 15,2017
+17372,Cybersafety in Modern Online Social Networks,September 10 – 13,2017
+17381,Recent Trends in Knowledge Compilation,September 17 – 22,2017
+17382,Approaches and Applications of Inductive Programming,September 17 – 20,2017
+17391,Deep Learning for Computer Vision,September 24 – 29,2017
+17392,Body-Centric Computing,September 24 – 29,2017
+17401,Quantum Cryptanalysis,October 1 – 6,2017
+17411,"Hyperspectral, Multispectral, and Multimodal (HMM) Imaging: Acquisition, Algorithms, and Applications",October 8 – 13,2017
+17412,Internet of People,October 8 – 11,2017
+17421,Computational Proteomics,October 15 – 20,2017
+17431,"Performance Portability in Extreme Scale Computing: Metrics, Challenges, Solutions",October 22 – 27,2017
+17441,Big Stream Processing Systems,October 29 – November 3,2017
+17442,Towards Cross-Domain Performance Modeling and Prediction: IR/RecSys/NLP,October 29 – November 3,2017
+17451,New Challenges in Parallelism,November 5 – 10,2017
+17452,Algorithmic Cheminformatics,November 5 – 10,2017
+17461,Connecting Visualization and Data Management Research,November 12 – 17,2017
+17462,A Shared Challenge in Behavioural Specification,November 12 – 15,2017
+17471,Artificial and Computational Intelligence in Games: AI-Driven Game Design,November 19 – 24,2017
+17472,Addressing the Computational Challenges of Personalized Medicine,November 19 – 22,2017
+17481,Reliable Computation and Complexity on the Reals,November 26 – December 1,2017
+17491,"Computational Metabolomics: Identification, Interpretation, Imaging",December 3 – 8,2017
+17492,Multi-Level Modelling,December 3 – 8,2017
+17502,Testing and Verification of Compilers,December 10 – 13,2017
+17511,The Critical Internet Infrastructure Revisited,December 17 – 20,2017
+18021,Symmetric Cryptography,January 7 – 12,2018
+18031,Personalized Multiobjective Optimization: An Analytics Perspective,January 14 – 19,2018
+18041,Foundations of Data Visualization,January 21 – 26,2018
+18051,Proof Complexity,January 28 – February 2,2018
+18052,Genetic Improvement of Software,January 28 – February 2,2018
+18061,Evidence About Programmers for Programming Language Design,February 4 – 9,2018
+18071,Planning and Operations Research,February 11 – 16,2018
+18081,Designing and Implementing Algorithms for Mixed-Integer Nonlinear Optimization,February 18 – 23,2018
+18082,Formal Methods for the Synthesis of Biomolecular Circuits,February 18 – 23,2018
+18091,"Data Consistency in Distributed Systems: Algorithms, Programs, and Databases",February 25 – March 2,2018
+18092,The Logical Execution Time Paradigm: New Perspectives for Multicore Systems,February 25 – 28,2018
+18101,Scheduling,March 4 – 9,2018
+18102,Dynamic Traffic Models in Transportation Science,March 4 – 9,2018
+18111,Loop Optimization,March 11 – 16,2018
+18112,"Coding Theory for Inference, Learning and Optimization",March 11 – 16,2018
+18121,Machine Learning and Model Checking Join Forces,March 18 – 23,2018
+18122,Automatic Quality Assurance and Release,March 18 – 21,2018
+18151,Program Equivalence,April 8 – 13,2018
+18152,"Blockchains, Smart Contracts and Future Applications",April 8 – 13,2018
+18161,Visualization of Biological Data - Crossroads,April 15 – 20,2018
+18171,Normative Multi-Agent Systems,April 22 – 27,2018
+18172,Algebraic Effect Handlers go Mainstream,April 22 – 27,2018
+18181,Towards Accountable Systems,April 29 – May 4,2018
+18182,"Software Business, Platforms, and Ecosystems: Fundamentals of Software Production Research",April 29 – May 2,2018
+18201,Secure Compilation,May 13 – 18,2018
+18202,Inter-Vehicular Communication Towards Cooperative Driving,May 13 – 16,2018
+18211,Formal Methods and Fault-Tolerant Distributed Computing: Forging an Alliance,May 21 – 25,2018
+18212,On-Body Interaction: Embodied Cognition Meets Sensor/Actuator Engineering to Design New Interfaces,May 21 – 24,2018
+18231,The Constraint Satisfaction Problem: Complexity and Approximability,June 3 – 8,2018
+18241,High-Performance Graph Algorithms,June 10 – 15,2018
+18242,Secure Routing for the Internet,June 10 – 13,2018
+18251,Database Architectures for Modern Hardware,June 17 – 22,2018
+18252,Ubiquitous Gaze Sensing and Interaction,June 18 – 21,2018
+18261,Discipline Convergence in Networked Systems,June 24 – 29,2018
+18262,10 Years of Web Science: Closing The Loop,June 24 – 29,2018
+18271,In Situ Visualization for Computational Science,July 1 – 6,2018
+18281,"Synergies between Adaptive Analysis of Algorithms, Parameterized Complexity, Compressed Data Structures and Compressed Indices",July 8 – 13,2018
+18291,Extreme Classification,July 15 – 20,2018
+18321,Web Application Security,August 5 – 8,2018
+18322,Human-Computer Integration,August 5 – 10,2018
+18331,Algorithmic Foundations of Programmable Matter,August 12 – 17,2018
+18332,Blockchain Technology for Collaborative Information Systems,August 12 – 17,2018
+18341,Formalization of Mathematics in Type Theory,August 19 – 24,2018
+18351,Modeling for Sustainability,August 26 – 31,2018
+18361,Measuring the Complexity of Computational Content: From Combinatorial Problems to Analysis,September 2 – 7,2018
+18371,Knowledge Graphs: New Directions for Knowledge Representation on the Semantic Web,September 9 – 14,2018
+18381,Quantum Programming Languages,September 16 – 21,2018
+18391,Algebraic Methods in Computational Complexity,September 23 – 28,2018
+18401,Automating Data Science,September 30 – October 5,2018
+18411,Progressive Data Analysis and Visualization,October 7 – 12,2018
+18412,Encouraging Reproducibility in Scientific Research of the Internet,October 7 – 10,2018
+18421,"Algorithmic Enumeration: Output-sensitive, Input-Sensitive, Parameterized, Approximative",October 14 – 19,2018
+18422,"Shape Analysis: Euclidean, Discrete and Algebraic Geometric Methods",October 14 – 19,2018
+18431,Computational Aspects of Fabrication,October 21 – 26,2018
+18441,Data Physicalization,October 28 – November 2,2018
+18442,"Visualization and Processing of Anisotropy in Imaging, Geometry, and Astronomy",October 28 – November 2,2018
+18451,"Genomics, Pattern Avoidance, and Statistical Mechanics",November 4 – 9,2018
+18461,Blockchain Security at Scale,November 11 – 16,2018
+18462,Provenance and Logging for Sense Making,November 11 – 16,2018
+18471,Next Generation Domain Specific Conceptual Modeling: Principles and Methods,November 18 – 23,2018
+18472,Implementing FAIR Data Infrastructures,November 18 – 21,2018
+18481,High Throughput Connectomics,November 25 – 30,2018
+18482,Network Visualization in the Humanities,November 25 – 30,2018
+18491,Multidirectional Transformations and Synchronisations,December 2 – 7,2018
+18511,"Algebraic Coding Theory for Networks, Storage, and Security",December 16 – 21,2018
+19021,Joint Processing of Language and Visual Data for Better Automated Understanding,January 6 – 11,2019
+19031,Logics for Dependence and Independence,January 13 – 18,2019
+19032,Conditional Logics and Conditional Reasoning: New Joint Perspectives,January 13 – 16,2019
+19041,New Horizons in Parameterized Complexity,January 20 – 25,2019
+19042,Practical Yet Composably Secure Cryptographic Protocols,January 20 – 25,2019
+19051,Data Structures for the Cloud and External Memory Data,January 27 – February 1,2019
+19052,Computational Methods for Melody and Voice Processing in Music Recordings,January 27 – February 1,2019
+19061,Visual Analytics of Multilayer Networks Across Disciplines,February 3 – 8,2019
+19062,"Bringing CP, SAT and SMT together: Next Challenges in Constraint Solving",February 3 – 6,2019
+19071,Specification Formalisms for Modern Cyber-Physical Systems,February 10 – 15,2019
+19072,The Role of Non-monotonic Reasoning in Future Development of Artificial Intelligence,February 10 – 15,2019
+19081,Verification and Synthesis of Human-Robot Interaction,February 17 – 22,2019
+19082,AI for the Social Good,February 17 – 22,2019
+19092,"Beyond-Planar Graphs: Combinatorics, Models and Algorithms",February 24 – March 1,2019
+19101,"Analysis, Design, and Control of Predictable Interconnected Systems",March 3 – 8,2019
+19102,3D Morphable Models,March 3 – 8,2019
+19111,Theoretical Foundations of Storage Systems,March 10 – 15,2019
+19112,Engineering Reliable Multiagent Systems,March 10 – 15,2019
+19121,Computational Complexity of Discrete Problems,March 17 – 22,2019
+19131,Algorithmic Problems in Group Theory,March 24 – 29,2019
+19132,Users and automated driving systems: How will we interact with tomorrow\'s vehicles?,March 24 – 29,2019
+19141,Programmable Network Data Planes,March 31 – April 5,2019
+19151,Visual Computing in Materials Sciences,April 7 – 12,2019
+19152,Emerging Hardware Techniques and EDA Methodologies for Neuromorphic Computing,April 7 – 10,2019
+19171,"Ethics and Trust: Principles, Verification and Validation",April 22 – 26,2019
+19172,Computational Creativity Meets Digital Literary Studies,April 22 – 25,2019
+19181,Computational Geometry,April 28 – May 3,2019
+19182,Multi-Document Information Consolidation,April 28 – May 3,2019
+19191,Software Evolution in Time and Space: Unifying Version and Variability Management,May 5 – 10,2019
+19192,Visual Analytics for Sets over Time and Space,May 5 – 10,2019
+19202,Approaches and Applications of Inductive Programming,May 12 – 17,2019
+19211,Enumeration in Data Management,May 19 – 24,2019
+19212,"Topology, Computation and Data Analysis",May 19 – 24,2019
+19222,Control of Networked Cyber-Physical Systems,May 26 – 29,2019
+19231,Empirical Evaluation of Secure Development Processes,June 2 – 7,2019
+19232,"Ubiquitous Computing Education: Why, What, and How",June 2 – 7,2019
+19241,25 Years of the Burrows-Wheeler Transform,June 10 – 14,2019
+19261,Distributed Computing with Permissioned Blockchains and Databases,June 23 – 28,2019
+19262,Astrographics: Interactive Data-Driven Journeys through Space,June 23 – 26,2019
+19271,Graph Colouring: from Structure to Algorithms,June 30 – July 5,2019
+19272,Real VR - Importing the Real World into Immersive VR and Optimizing the Perceptual Experience of Head-Mounted Displays,June 30 – July 3,2019
+19281,Notional Machines and Programming Language Semantics in Education,July 7 – 12,2019
+19282,Data Series Management,July 7 – 12,2019
+19291,Values in Computing,July 14 – 19,2019
+19292,Mobile Data Visualization,July 14 – 19,2019
+19301,Secure Composition for Hardware Systems,July 21 – 26,2019
+19302,Cybersafety Threats - from Deception to Aggression,July 21 – 26,2019
+19331,Software Protection Decision Support and Evaluation Methodologies,August 11 – 16,2019
+19341,Algorithms and Complexity for Continuous Problems,August 18 – 23,2019
+19342,"Advances and Challenges in Protein-RNA Recognition, Regulation and Prediction",August 18 – 23,2019
+19351,Computational Proteomics,August 25 – 30,2019
+19352,Computation in Low-Dimensional Geometry and Topology,August 25 – 30,2019
+19361,Logic and Learning,September 1 – 6,2019
+19371,Deduction Beyond Satisfiability,September 8 – 13,2019
+19381,Application-Oriented Computational Social Choice,September 15 – 20,2019
+19391,Data Ecosystems: Sovereign Data Exchange among Organizations,September 22 – 27,2019
+19401,Comparative Theory for Graph Polynomials,September 29 – October 4,2019
+19411,Social Agents for Teamwork and Group Interactions,October 6 – 11,2019
+19421,Quantum Cryptanalysis,October 13 – 18,2019
+19431,Theory of Randomized Optimization Heuristics,October 20 – 25,2019
+19432,Analysis of Autonomous Mobile Collectives in Complex Physical Environments,October 20 – 23,2019
+19442,Programming Languages for Distributed Systems and Distributed Data Management,October 27 – 31,2019
+19443,Algorithms and Complexity in Phylogenetics,October 27 – 31,2019
+19451,Biggest Failures in Security,November 3 – 8,2019
+19452,Machine Learning Meets Visualization to Make Artificial Intelligence Interpretable,November 3 – 8,2019
+19461,Conversational Search,November 10 – 15,2019
+19471,BOTse: Bots in Software Engineering,November 17 – 22,2019
+19481,Composing Model-Based Analysis Tools,November 24 – 29,2019
+19482,"Diversity, Fairness, and Data-Driven Personalization in (News) Recommender System",November 24 – 29,2019
+19491,Big Graph Processing Systems,December 1 – 6,2019
+19502,Future Automotive HW/SW Platform Design,December 8 – 11,2019
+19511,Artificial and Computational Intelligence in Games: Revolutions in Computational Game AI,December 15 – 20,2019
