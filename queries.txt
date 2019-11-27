@@ -1,0 +1,26 @@
+# How often each country appears
+SELECT country, count(country)
+FROM participants
+GROUP BY country
+ORDER BY count(country) DESC
+
+# Each participants co2 footprint on average
+SELECT avg(co2.tons)
+FROM participants JOIN co2
+ON participants.country == co2.country
+
+# avg co2 footprint of each of the seminars
+SELECT title, avg(co2.tons)
+FROM participants
+JOIN co2 ON participants.country = co2.country
+JOIN seminars ON participants.seminar_id = seminars.seminar_id
+GROUP BY seminar_id
+ORDER BY avg(co2.tons) DESC
+
+# total co2 footprint of each seminar
+SELECT seminars.seminar_id, title, sum(co2.tons)
+FROM participants
+JOIN co2 ON participants.country = co2.country
+JOIN seminars ON participants.seminar_id = seminars.seminar_id
+GROUP BY seminars.seminar_id
+ORDER BY sum(co2.tons) DESC
