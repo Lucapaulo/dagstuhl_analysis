@@ -28,7 +28,7 @@ seminars_dt$start_date <- make.index.unique(seminars_dt$start_date, eps = 1, dro
 x <- participants_dt[, nrow(.SD), by=seminar_id]
 setnames(x, "V1", "participants")
 x <- merge(x, seminars_dt[, c("seminar_id", "start_date")], all.x = TRUE)
-x[, seminar_id := paste("seminar", formatC(seminar_id, width=5, flag="0"), sep=" ")]
+#x[, seminar_id := paste("seminar", formatC(seminar_id, width=5, flag="0"), sep=" ")]
 
 # participants chronological
 ggplot(x, aes(start_date, participants)) +
@@ -49,13 +49,12 @@ ggplot(x, aes(participants)) +
   ylab("CDF") +
   scale_y_continuous(expand = c(0.01,0.01))
 
-
 # co2 tons per seminar
 y <- merge(participants_dt[, c("seminar_id", "country")], co2_dt, all.x=TRUE)
 y$country <- NULL
 y <- y[, .(co2=sum(tons)), by=seminar_id]
 y <- merge(y, seminars_dt[, c("seminar_id", "start_date")], by.x="seminar_id", by.y="seminar_id")
-y[, seminar_id := paste("seminar", formatC(seminar_id, width=5, flag="0"), sep=" ")]
+#y[, seminar_id := paste("seminar", formatC(seminar_id, width=5, flag="0"), sep=" ")]
 
 # co2 tons chronological
 ggplot(y, aes(start_date, co2)) +
@@ -82,7 +81,7 @@ ggplot(y, aes(reorder(seminar_id, -co2), co2)) +
 
 
 # mixed
-z <- merge(x, y)
+z <- merge(x[, c("seminar_id", "participants")], y)
 
 ggplot(z, aes(x=start_date)) +
   geom_line(aes(y = participants, group = 1, colour = "Participants")) +
@@ -100,4 +99,27 @@ ggplot(z, aes(x=start_date)) +
               aes(x = start_date, y = participants, group=1),
               method = "lm", se= FALSE, color = "dodgerblue3", size = 1) +
   theme(legend.position = c(0.9, 0.9))
-        
+
+# rate of dach vs na participants
+origins <- participants_dt[, .(dach=sum(country=="DE" | country=="AT" | country=="CH"), na=sum(country=="US" | country=="CA")), by=seminar_id]
+origins <- merge(x[, c("seminar_id", "participants")], origins)
+origins[, dach_rate := ( dach / participants * 100)]
+origins[, na_rate := (na / participants * 100)]
+origins <- merge(origins[, c("seminar_id", "dach_rate", "na_rate")], seminars_dt[, c("seminar_id", "start_date")])
+origins
+
+ggplot(origins, aes(x=start_date)) +
+  geom_line(aes(y = dach_rate, group = 1, colour = "DACH")) +
+  geom_line(aes(y = na_rate, group = 1, colour = "NA")) +
+  labs(title = "Percentage of DACH vs NA Participants per Dagstuhl Seminar from 2001 to 2019",
+       x = "Year",
+       y = "% of Participants",
+       colour = "Legend") +
+  scale_colour_manual(values = c("red", "dodgerblue")) +
+  geom_smooth(data=origins %>% group_by(start_date) %>% summarise(dach_rate=sum(dach_rate)),
+              aes(x = start_date, y = dach_rate, group=1),
+              method = "lm", se= FALSE, color = "red3", size = 1) +
+  geom_smooth(data=origins %>% group_by(start_date) %>% summarise(na_rate=sum(na_rate)),
+              aes(x = start_date, y = na_rate, group=1),
+              method = "lm", se= FALSE, color = "dodgerblue3", size = 1) +
+  scale_y_continuous(expand = c(0.01,0.01))
